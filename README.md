@@ -1,4 +1,5 @@
 # new
+
 this is my first git repository
 <vr>
-author - vishvjeet rajpoot
+author - vishvjeet rajpoot cse jec
